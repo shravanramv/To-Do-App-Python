@@ -24,4 +24,4 @@ Run the web app locally
 
 ## Documentation
 
-For further documentation, can refer to [Documentation](https://flet.dev/docs/tutorials/python-todo/)
+For further documentation, you can refer to the [Flet Documentation](https://flet.dev/docs/) and a [how to build a To-Do app](https://flet.dev/docs/tutorials/python-todo/)
